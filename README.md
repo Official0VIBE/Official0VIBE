@@ -1,6 +1,8 @@
 <div>
 <img src="./img/Profile-elaina.png" width="300" align="right" />
 <br/>
+  - Hello
+<br/>
 <img src="./img/AboutMe-elaina.png" width="500" />
 <br/>
 <br/>
