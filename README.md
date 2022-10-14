@@ -29,7 +29,7 @@
 <br/>
 <br/>
         
-- 📗 [**Eilaluth/Ayano**](https://github.com/Eilaluth/Ayano) <br/>
+- 📗 [**Official0VIBE/Stinner**](https://github.com/Official0VIBE/Stinner) <br/>
   Stinner is bot designed for Bug-Reporting, Stinner can recieve a command and details about a bug in your server and automatically sends in to the specified discord channel!
 
 <br/>
