@@ -28,9 +28,12 @@
 <img src="./img/Repo-elaina.png" width="500" />
 <br/>
 <br/>
-        
+
 - 📗 [**Official0VIBE/Stinner**](https://github.com/Official0VIBE/Stinner) <br/>
   Stinner is bot designed for Bug-Reporting, Stinner can recieve a command and details about a bug in your server and automatically sends in to the specified discord channel!
+- 📘 [***Official0VIBE/Sugg***](https://github.com/Official0VIBE/Sugg) <br/>
+Sugg is a discord bot designed to allow everyone to share their suggestions to make your discord server better, you can accept and deny a suggestion!
+
 
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
